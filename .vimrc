@@ -55,7 +55,7 @@ NeoBundle 'supermomonga/vimshell-kawaii.vim'
 NeoBundle 'Shougo/unite.vim'
 "NeoBundle 'SHougo/neocomplete'
 NeoBundle 'sjl/badwolf'
-" Unite vesting で簡単テスト
+
 NeoBundle 'Shougo/vesting'
 
 
